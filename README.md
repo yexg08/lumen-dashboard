@@ -2,6 +2,12 @@
 
 Dashboard de prueba, solo frontend, inspirado en un programa de puntos tipo tarjeta de crédito. Todos los datos son aleatorios y se generan en el navegador.
 
+## Capturas
+
+![Tema claro](docs/lumen-claro.webp)
+
+![Tema oscuro](docs/lumen-oscuro.webp)
+
 ## Cómo correrlo
 
 ```bash
